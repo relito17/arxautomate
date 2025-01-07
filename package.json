@@ -1,9 +1,8 @@
 {
   "name": "vite-react-typescript-starter",
-  "private": true,
+  "homepage": "https://relito17.github.io/arxautomate/",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://relito17.github.io/arxautomate",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
