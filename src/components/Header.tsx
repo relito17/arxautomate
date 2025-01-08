@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import logo from '../images/logo 250px.png';
+import logo from '../images/logo-250px.png';
 
 const Header = () => {
   const [scrolled, setScrolled] = useState(false);
