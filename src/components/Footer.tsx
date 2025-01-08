@@ -35,9 +35,12 @@ const Footer = () => {
                 <Linkedin className="h-6 w-6" />
               </a>
               <a 
-                href="#" 
+                href="https://www.instagram.com/arxautomate/" 
                 className="text-gray-400 hover:text-blue-400 transition-colors transform hover:scale-110"
                 aria-label="Instagram"
+                target="_blank" // Adiciona a opção de abrir em uma nova aba
+                rel="noopener noreferrer" // Adiciona segurança ao abrir em uma nova aba
+
               >
                 <Instagram className="h-6 w-6" />
               </a>
